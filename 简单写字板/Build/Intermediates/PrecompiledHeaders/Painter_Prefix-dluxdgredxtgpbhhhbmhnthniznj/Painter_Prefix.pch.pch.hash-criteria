@@ -1,0 +1,22 @@
+-x
+objective-c
+-arch
+armv7
+-std=c99
+-gmodules
+-fpascal-strings
+-O0
+-isysroot
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS9.3.sdk
+-miphoneos-version-min=9.3
+-g
+-fvisibility=hidden
+-fembed-bitcode-marker
+-iquote
+-iquote
+-I/Users/mac/Documents/开发资料/下载/简单写字板/Build/Products/Debug-iphoneos/include
+-F/Users/mac/Documents/开发资料/下载/简单写字板/Build/Products/Debug-iphoneos
+arm-apple-darwin15.6.0
+"4.2.1 Compatible Apple LLVM 7.3.0 (clang-703.0.29)"
+SDK_PRODUCT_BUILD_VERSION=13E230
+13E230
